@@ -54,6 +54,7 @@ The program simulates how memory is allocated to processes in a system. It uses 
 - **Data Structures**:
   - LinkedList
   - Queue
+  - Piriority Queue
 
 ---
 

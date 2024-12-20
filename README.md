@@ -91,6 +91,3 @@ The program simulates how memory is allocated to processes in a system. It uses 
 Contributions are welcome! If you'd like to improve this project or fix any bugs, please fork the repository and submit a pull request.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
